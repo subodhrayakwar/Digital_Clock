@@ -18,6 +18,3 @@
 
 
 
-## The website link is 👇👇👇:
-
-https://1-shreyash.github.io/Color-Changing-Clock/
